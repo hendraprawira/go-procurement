@@ -1,4 +1,4 @@
-module https://github.com/hendraprawira/go-procurement.git
+module github.com/hendraprawira/go-procurement.git
 
 go 1.18
 
