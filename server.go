@@ -8,10 +8,10 @@ import (
 	"github.com/99designs/gqlgen/graphql/handler"
 	"github.com/99designs/gqlgen/graphql/playground"
 	"github.com/gorilla/mux"
-	"github.com/hendraprawira/Tripatra-procurement/directives"
-	"github.com/hendraprawira/Tripatra-procurement/graph"
-	"github.com/hendraprawira/Tripatra-procurement/graph/generated"
-	middlewares "github.com/hendraprawira/Tripatra-procurement/middleware"
+	"github.com/hendraprawira/go-procurement/directives"
+	"github.com/hendraprawira/go-procurement/graph"
+	"github.com/hendraprawira/go-procurement/graph/generated"
+	middlewares "github.com/hendraprawira/go-procurement/middleware"
 )
 
 const defaultPort = "3000"
