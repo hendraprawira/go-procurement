@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/hendraprawira/Tripatra-procurement/service"
+	"github.com/hendraprawira/go-procurement/service"
 )
 
 type authString string

@@ -5,9 +5,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/hendraprawira/Tripatra-procurement/graph/model"
-	"github.com/hendraprawira/Tripatra-procurement/service"
-	"github.com/hendraprawira/Tripatra-procurement/tools"
+	"github.com/hendraprawira/go-procurement/graph/model"
+	"github.com/hendraprawira/go-procurement/service"
+	"github.com/hendraprawira/go-procurement/tools"
 	"github.com/vektah/gqlparser/v2/gqlerror"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
